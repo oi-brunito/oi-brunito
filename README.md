@@ -1,3 +1,1 @@
-
-- 💻 Um cara ai que gosta MUITO de mexer no PC 👍💻
-- Print("ODEIO PROGAMAÇÃ0!"🤡🤙🤙🤙
+sem risco, sem ganho
