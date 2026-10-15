@@ -1,0 +1,301 @@
+﻿Proyecto,Modelo,Pieza,Descripción,Cantidad,Longitud_mm,Perfil_mm
+1,Mesa auxiliar · modelo 01,A,Pata,4,626,25 × 25 × 2
+1,Mesa auxiliar · modelo 01,B,Travesaño longitudinal,2,650,25 × 25 × 2
+1,Mesa auxiliar · modelo 01,C,Travesaño transversal,2,400,25 × 25 × 2
+2,Mesa auxiliar · modelo 02,A,Pata,4,636,25 × 25 × 2
+2,Mesa auxiliar · modelo 02,B,Travesaño longitudinal,2,700,25 × 25 × 2
+2,Mesa auxiliar · modelo 02,C,Travesaño transversal,2,420,25 × 25 × 2
+3,Mesa auxiliar · modelo 03,A,Pata,4,646,25 × 25 × 2
+3,Mesa auxiliar · modelo 03,B,Travesaño longitudinal,2,750,25 × 25 × 2
+3,Mesa auxiliar · modelo 03,C,Travesaño transversal,2,440,25 × 25 × 2
+4,Mesa auxiliar · modelo 04,A,Pata,4,656,25 × 25 × 2
+4,Mesa auxiliar · modelo 04,B,Travesaño longitudinal,2,800,25 × 25 × 2
+4,Mesa auxiliar · modelo 04,C,Travesaño transversal,2,460,25 × 25 × 2
+5,Mesa auxiliar · modelo 05,A,Pata,4,666,25 × 25 × 2
+5,Mesa auxiliar · modelo 05,B,Travesaño longitudinal,2,850,25 × 25 × 2
+5,Mesa auxiliar · modelo 05,C,Travesaño transversal,2,480,25 × 25 × 2
+6,Mesa auxiliar · modelo 06,A,Pata,4,676,25 × 25 × 2
+6,Mesa auxiliar · modelo 06,B,Travesaño longitudinal,2,900,25 × 25 × 2
+6,Mesa auxiliar · modelo 06,C,Travesaño transversal,2,500,25 × 25 × 2
+7,Mesa auxiliar · modelo 07,A,Pata,4,686,25 × 25 × 2
+7,Mesa auxiliar · modelo 07,B,Travesaño longitudinal,2,950,25 × 25 × 2
+7,Mesa auxiliar · modelo 07,C,Travesaño transversal,2,520,25 × 25 × 2
+8,Mesa auxiliar · modelo 08,A,Pata,4,696,25 × 25 × 2
+8,Mesa auxiliar · modelo 08,B,Travesaño longitudinal,2,1000,25 × 25 × 2
+8,Mesa auxiliar · modelo 08,C,Travesaño transversal,2,540,25 × 25 × 2
+9,Mesa auxiliar · modelo 09,A,Pata,4,706,25 × 25 × 2
+9,Mesa auxiliar · modelo 09,B,Travesaño longitudinal,2,1050,25 × 25 × 2
+9,Mesa auxiliar · modelo 09,C,Travesaño transversal,2,560,25 × 25 × 2
+10,Mesa auxiliar · modelo 10,A,Pata,4,716,25 × 25 × 2
+10,Mesa auxiliar · modelo 10,B,Travesaño longitudinal,2,1100,25 × 25 × 2
+10,Mesa auxiliar · modelo 10,C,Travesaño transversal,2,580,25 × 25 × 2
+11,Estantería de tres niveles · modelo 01,A,Pata,4,882,25 × 25 × 2
+11,Estantería de tres niveles · modelo 01,B,Travesaño longitudinal,6,550,25 × 25 × 2
+11,Estantería de tres niveles · modelo 01,C,Travesaño transversal,6,250,25 × 25 × 2
+12,Estantería de tres niveles · modelo 02,A,Pata,4,932,25 × 25 × 2
+12,Estantería de tres niveles · modelo 02,B,Travesaño longitudinal,6,600,25 × 25 × 2
+12,Estantería de tres niveles · modelo 02,C,Travesaño transversal,6,270,25 × 25 × 2
+13,Estantería de tres niveles · modelo 03,A,Pata,4,982,25 × 25 × 2
+13,Estantería de tres niveles · modelo 03,B,Travesaño longitudinal,6,650,25 × 25 × 2
+13,Estantería de tres niveles · modelo 03,C,Travesaño transversal,6,290,25 × 25 × 2
+14,Estantería de tres niveles · modelo 04,A,Pata,4,1032,25 × 25 × 2
+14,Estantería de tres niveles · modelo 04,B,Travesaño longitudinal,6,700,25 × 25 × 2
+14,Estantería de tres niveles · modelo 04,C,Travesaño transversal,6,310,25 × 25 × 2
+15,Estantería de tres niveles · modelo 05,A,Pata,4,1082,25 × 25 × 2
+15,Estantería de tres niveles · modelo 05,B,Travesaño longitudinal,6,750,25 × 25 × 2
+15,Estantería de tres niveles · modelo 05,C,Travesaño transversal,6,330,25 × 25 × 2
+16,Estantería de tres niveles · modelo 06,A,Pata,4,1132,25 × 25 × 2
+16,Estantería de tres niveles · modelo 06,B,Travesaño longitudinal,6,800,25 × 25 × 2
+16,Estantería de tres niveles · modelo 06,C,Travesaño transversal,6,350,25 × 25 × 2
+17,Estantería de tres niveles · modelo 07,A,Pata,4,1182,25 × 25 × 2
+17,Estantería de tres niveles · modelo 07,B,Travesaño longitudinal,6,850,25 × 25 × 2
+17,Estantería de tres niveles · modelo 07,C,Travesaño transversal,6,370,25 × 25 × 2
+18,Estantería de tres niveles · modelo 08,A,Pata,4,1232,25 × 25 × 2
+18,Estantería de tres niveles · modelo 08,B,Travesaño longitudinal,6,900,25 × 25 × 2
+18,Estantería de tres niveles · modelo 08,C,Travesaño transversal,6,390,25 × 25 × 2
+19,Estantería de tres niveles · modelo 09,A,Pata,4,1282,25 × 25 × 2
+19,Estantería de tres niveles · modelo 09,B,Travesaño longitudinal,6,950,25 × 25 × 2
+19,Estantería de tres niveles · modelo 09,C,Travesaño transversal,6,410,25 × 25 × 2
+20,Estantería de tres niveles · modelo 10,A,Pata,4,1332,25 × 25 × 2
+20,Estantería de tres niveles · modelo 10,B,Travesaño longitudinal,6,1000,25 × 25 × 2
+20,Estantería de tres niveles · modelo 10,C,Travesaño transversal,6,430,25 × 25 × 2
+21,Panel para cancela · modelo 01,A,Montante exterior,2,900,25 × 25 × 2
+21,Panel para cancela · modelo 01,B,Travesaño entre montantes,2,550,25 × 25 × 2
+21,Panel para cancela · modelo 01,C,Barrote interior,4,850,"15 × 15 × 1,5"
+22,Panel para cancela · modelo 02,A,Montante exterior,2,950,25 × 25 × 2
+22,Panel para cancela · modelo 02,B,Travesaño entre montantes,2,600,25 × 25 × 2
+22,Panel para cancela · modelo 02,C,Barrote interior,4,900,"15 × 15 × 1,5"
+23,Panel para cancela · modelo 03,A,Montante exterior,2,1000,25 × 25 × 2
+23,Panel para cancela · modelo 03,B,Travesaño entre montantes,2,650,25 × 25 × 2
+23,Panel para cancela · modelo 03,C,Barrote interior,4,950,"15 × 15 × 1,5"
+24,Panel para cancela · modelo 04,A,Montante exterior,2,1050,25 × 25 × 2
+24,Panel para cancela · modelo 04,B,Travesaño entre montantes,2,700,25 × 25 × 2
+24,Panel para cancela · modelo 04,C,Barrote interior,5,1000,"15 × 15 × 1,5"
+25,Panel para cancela · modelo 05,A,Montante exterior,2,1100,25 × 25 × 2
+25,Panel para cancela · modelo 05,B,Travesaño entre montantes,2,750,25 × 25 × 2
+25,Panel para cancela · modelo 05,C,Barrote interior,5,1050,"15 × 15 × 1,5"
+26,Panel para cancela · modelo 06,A,Montante exterior,2,1150,25 × 25 × 2
+26,Panel para cancela · modelo 06,B,Travesaño entre montantes,2,800,25 × 25 × 2
+26,Panel para cancela · modelo 06,C,Barrote interior,6,1100,"15 × 15 × 1,5"
+27,Panel para cancela · modelo 07,A,Montante exterior,2,1200,25 × 25 × 2
+27,Panel para cancela · modelo 07,B,Travesaño entre montantes,2,850,25 × 25 × 2
+27,Panel para cancela · modelo 07,C,Barrote interior,6,1150,"15 × 15 × 1,5"
+28,Panel para cancela · modelo 08,A,Montante exterior,2,1250,25 × 25 × 2
+28,Panel para cancela · modelo 08,B,Travesaño entre montantes,2,900,25 × 25 × 2
+28,Panel para cancela · modelo 08,C,Barrote interior,6,1200,"15 × 15 × 1,5"
+29,Panel para cancela · modelo 09,A,Montante exterior,2,1300,25 × 25 × 2
+29,Panel para cancela · modelo 09,B,Travesaño entre montantes,2,950,25 × 25 × 2
+29,Panel para cancela · modelo 09,C,Barrote interior,7,1250,"15 × 15 × 1,5"
+30,Panel para cancela · modelo 10,A,Montante exterior,2,1350,25 × 25 × 2
+30,Panel para cancela · modelo 10,B,Travesaño entre montantes,2,1000,25 × 25 × 2
+30,Panel para cancela · modelo 10,C,Barrote interior,7,1300,"15 × 15 × 1,5"
+31,Panel decorativo de barrotes · modelo 01,A,Montante exterior,2,650,25 × 25 × 2
+31,Panel decorativo de barrotes · modelo 01,B,Travesaño entre montantes,2,450,25 × 25 × 2
+31,Panel decorativo de barrotes · modelo 01,C,Barrote interior,3,600,"15 × 15 × 1,5"
+32,Panel decorativo de barrotes · modelo 02,A,Montante exterior,2,700,25 × 25 × 2
+32,Panel decorativo de barrotes · modelo 02,B,Travesaño entre montantes,2,500,25 × 25 × 2
+32,Panel decorativo de barrotes · modelo 02,C,Barrote interior,3,650,"15 × 15 × 1,5"
+33,Panel decorativo de barrotes · modelo 03,A,Montante exterior,2,750,25 × 25 × 2
+33,Panel decorativo de barrotes · modelo 03,B,Travesaño entre montantes,2,550,25 × 25 × 2
+33,Panel decorativo de barrotes · modelo 03,C,Barrote interior,4,700,"15 × 15 × 1,5"
+34,Panel decorativo de barrotes · modelo 04,A,Montante exterior,2,800,25 × 25 × 2
+34,Panel decorativo de barrotes · modelo 04,B,Travesaño entre montantes,2,600,25 × 25 × 2
+34,Panel decorativo de barrotes · modelo 04,C,Barrote interior,4,750,"15 × 15 × 1,5"
+35,Panel decorativo de barrotes · modelo 05,A,Montante exterior,2,850,25 × 25 × 2
+35,Panel decorativo de barrotes · modelo 05,B,Travesaño entre montantes,2,650,25 × 25 × 2
+35,Panel decorativo de barrotes · modelo 05,C,Barrote interior,4,800,"15 × 15 × 1,5"
+36,Panel decorativo de barrotes · modelo 06,A,Montante exterior,2,900,25 × 25 × 2
+36,Panel decorativo de barrotes · modelo 06,B,Travesaño entre montantes,2,700,25 × 25 × 2
+36,Panel decorativo de barrotes · modelo 06,C,Barrote interior,5,850,"15 × 15 × 1,5"
+37,Panel decorativo de barrotes · modelo 07,A,Montante exterior,2,950,25 × 25 × 2
+37,Panel decorativo de barrotes · modelo 07,B,Travesaño entre montantes,2,750,25 × 25 × 2
+37,Panel decorativo de barrotes · modelo 07,C,Barrote interior,5,900,"15 × 15 × 1,5"
+38,Panel decorativo de barrotes · modelo 08,A,Montante exterior,2,1000,25 × 25 × 2
+38,Panel decorativo de barrotes · modelo 08,B,Travesaño entre montantes,2,800,25 × 25 × 2
+38,Panel decorativo de barrotes · modelo 08,C,Barrote interior,6,950,"15 × 15 × 1,5"
+39,Panel decorativo de barrotes · modelo 09,A,Montante exterior,2,1050,25 × 25 × 2
+39,Panel decorativo de barrotes · modelo 09,B,Travesaño entre montantes,2,850,25 × 25 × 2
+39,Panel decorativo de barrotes · modelo 09,C,Barrote interior,6,1000,"15 × 15 × 1,5"
+40,Panel decorativo de barrotes · modelo 10,A,Montante exterior,2,1100,25 × 25 × 2
+40,Panel decorativo de barrotes · modelo 10,B,Travesaño entre montantes,2,900,25 × 25 × 2
+40,Panel decorativo de barrotes · modelo 10,C,Barrote interior,6,1050,"15 × 15 × 1,5"
+41,Banco sin respaldo · modelo 01,A,Pata,4,400,25 × 25 × 2
+41,Banco sin respaldo · modelo 01,B,Travesaño longitudinal,2,700,25 × 25 × 2
+41,Banco sin respaldo · modelo 01,C,Travesaño transversal,2,300,25 × 25 × 2
+42,Banco sin respaldo · modelo 02,A,Pata,4,400,25 × 25 × 2
+42,Banco sin respaldo · modelo 02,B,Travesaño longitudinal,2,750,25 × 25 × 2
+42,Banco sin respaldo · modelo 02,C,Travesaño transversal,2,310,25 × 25 × 2
+43,Banco sin respaldo · modelo 03,A,Pata,4,400,25 × 25 × 2
+43,Banco sin respaldo · modelo 03,B,Travesaño longitudinal,2,800,25 × 25 × 2
+43,Banco sin respaldo · modelo 03,C,Travesaño transversal,2,320,25 × 25 × 2
+44,Banco sin respaldo · modelo 04,A,Pata,4,400,25 × 25 × 2
+44,Banco sin respaldo · modelo 04,B,Travesaño longitudinal,2,850,25 × 25 × 2
+44,Banco sin respaldo · modelo 04,C,Travesaño transversal,2,330,25 × 25 × 2
+45,Banco sin respaldo · modelo 05,A,Pata,4,400,25 × 25 × 2
+45,Banco sin respaldo · modelo 05,B,Travesaño longitudinal,2,900,25 × 25 × 2
+45,Banco sin respaldo · modelo 05,C,Travesaño transversal,2,340,25 × 25 × 2
+46,Banco sin respaldo · modelo 06,A,Pata,4,400,25 × 25 × 2
+46,Banco sin respaldo · modelo 06,B,Travesaño longitudinal,2,950,25 × 25 × 2
+46,Banco sin respaldo · modelo 06,C,Travesaño transversal,2,350,25 × 25 × 2
+47,Banco sin respaldo · modelo 07,A,Pata,4,400,25 × 25 × 2
+47,Banco sin respaldo · modelo 07,B,Travesaño longitudinal,2,1000,25 × 25 × 2
+47,Banco sin respaldo · modelo 07,C,Travesaño transversal,2,360,25 × 25 × 2
+48,Banco sin respaldo · modelo 08,A,Pata,4,400,25 × 25 × 2
+48,Banco sin respaldo · modelo 08,B,Travesaño longitudinal,2,1050,25 × 25 × 2
+48,Banco sin respaldo · modelo 08,C,Travesaño transversal,2,370,25 × 25 × 2
+49,Banco sin respaldo · modelo 09,A,Pata,4,400,25 × 25 × 2
+49,Banco sin respaldo · modelo 09,B,Travesaño longitudinal,2,1100,25 × 25 × 2
+49,Banco sin respaldo · modelo 09,C,Travesaño transversal,2,380,25 × 25 × 2
+50,Banco sin respaldo · modelo 10,A,Pata,4,400,25 × 25 × 2
+50,Banco sin respaldo · modelo 10,B,Travesaño longitudinal,2,1150,25 × 25 × 2
+50,Banco sin respaldo · modelo 10,C,Travesaño transversal,2,390,25 × 25 × 2
+51,Base para jardinera · modelo 01,A,Pata,4,326,25 × 25 × 2
+51,Base para jardinera · modelo 01,B,Travesaño longitudinal,2,400,25 × 25 × 2
+51,Base para jardinera · modelo 01,C,Travesaño transversal,2,250,25 × 25 × 2
+52,Base para jardinera · modelo 02,A,Pata,4,346,25 × 25 × 2
+52,Base para jardinera · modelo 02,B,Travesaño longitudinal,2,450,25 × 25 × 2
+52,Base para jardinera · modelo 02,C,Travesaño transversal,2,270,25 × 25 × 2
+53,Base para jardinera · modelo 03,A,Pata,4,366,25 × 25 × 2
+53,Base para jardinera · modelo 03,B,Travesaño longitudinal,2,500,25 × 25 × 2
+53,Base para jardinera · modelo 03,C,Travesaño transversal,2,290,25 × 25 × 2
+54,Base para jardinera · modelo 04,A,Pata,4,386,25 × 25 × 2
+54,Base para jardinera · modelo 04,B,Travesaño longitudinal,2,550,25 × 25 × 2
+54,Base para jardinera · modelo 04,C,Travesaño transversal,2,310,25 × 25 × 2
+55,Base para jardinera · modelo 05,A,Pata,4,406,25 × 25 × 2
+55,Base para jardinera · modelo 05,B,Travesaño longitudinal,2,600,25 × 25 × 2
+55,Base para jardinera · modelo 05,C,Travesaño transversal,2,330,25 × 25 × 2
+56,Base para jardinera · modelo 06,A,Pata,4,426,25 × 25 × 2
+56,Base para jardinera · modelo 06,B,Travesaño longitudinal,2,650,25 × 25 × 2
+56,Base para jardinera · modelo 06,C,Travesaño transversal,2,350,25 × 25 × 2
+57,Base para jardinera · modelo 07,A,Pata,4,446,25 × 25 × 2
+57,Base para jardinera · modelo 07,B,Travesaño longitudinal,2,700,25 × 25 × 2
+57,Base para jardinera · modelo 07,C,Travesaño transversal,2,370,25 × 25 × 2
+58,Base para jardinera · modelo 08,A,Pata,4,466,25 × 25 × 2
+58,Base para jardinera · modelo 08,B,Travesaño longitudinal,2,750,25 × 25 × 2
+58,Base para jardinera · modelo 08,C,Travesaño transversal,2,390,25 × 25 × 2
+59,Base para jardinera · modelo 09,A,Pata,4,486,25 × 25 × 2
+59,Base para jardinera · modelo 09,B,Travesaño longitudinal,2,800,25 × 25 × 2
+59,Base para jardinera · modelo 09,C,Travesaño transversal,2,410,25 × 25 × 2
+60,Base para jardinera · modelo 10,A,Pata,4,506,25 × 25 × 2
+60,Base para jardinera · modelo 10,B,Travesaño longitudinal,2,850,25 × 25 × 2
+60,Base para jardinera · modelo 10,C,Travesaño transversal,2,430,25 × 25 × 2
+61,Mesa auxiliar de cocina exterior · modelo 01,A,Pata,4,726,25 × 25 × 2
+61,Mesa auxiliar de cocina exterior · modelo 01,B,Travesaño longitudinal,2,600,25 × 25 × 2
+61,Mesa auxiliar de cocina exterior · modelo 01,C,Travesaño transversal,2,350,25 × 25 × 2
+62,Mesa auxiliar de cocina exterior · modelo 02,A,Pata,4,726,25 × 25 × 2
+62,Mesa auxiliar de cocina exterior · modelo 02,B,Travesaño longitudinal,2,650,25 × 25 × 2
+62,Mesa auxiliar de cocina exterior · modelo 02,C,Travesaño transversal,2,370,25 × 25 × 2
+63,Mesa auxiliar de cocina exterior · modelo 03,A,Pata,4,726,25 × 25 × 2
+63,Mesa auxiliar de cocina exterior · modelo 03,B,Travesaño longitudinal,2,700,25 × 25 × 2
+63,Mesa auxiliar de cocina exterior · modelo 03,C,Travesaño transversal,2,390,25 × 25 × 2
+64,Mesa auxiliar de cocina exterior · modelo 04,A,Pata,4,726,25 × 25 × 2
+64,Mesa auxiliar de cocina exterior · modelo 04,B,Travesaño longitudinal,2,750,25 × 25 × 2
+64,Mesa auxiliar de cocina exterior · modelo 04,C,Travesaño transversal,2,410,25 × 25 × 2
+65,Mesa auxiliar de cocina exterior · modelo 05,A,Pata,4,726,25 × 25 × 2
+65,Mesa auxiliar de cocina exterior · modelo 05,B,Travesaño longitudinal,2,800,25 × 25 × 2
+65,Mesa auxiliar de cocina exterior · modelo 05,C,Travesaño transversal,2,430,25 × 25 × 2
+66,Mesa auxiliar de cocina exterior · modelo 06,A,Pata,4,726,25 × 25 × 2
+66,Mesa auxiliar de cocina exterior · modelo 06,B,Travesaño longitudinal,2,850,25 × 25 × 2
+66,Mesa auxiliar de cocina exterior · modelo 06,C,Travesaño transversal,2,450,25 × 25 × 2
+67,Mesa auxiliar de cocina exterior · modelo 07,A,Pata,4,726,25 × 25 × 2
+67,Mesa auxiliar de cocina exterior · modelo 07,B,Travesaño longitudinal,2,900,25 × 25 × 2
+67,Mesa auxiliar de cocina exterior · modelo 07,C,Travesaño transversal,2,470,25 × 25 × 2
+68,Mesa auxiliar de cocina exterior · modelo 08,A,Pata,4,726,25 × 25 × 2
+68,Mesa auxiliar de cocina exterior · modelo 08,B,Travesaño longitudinal,2,950,25 × 25 × 2
+68,Mesa auxiliar de cocina exterior · modelo 08,C,Travesaño transversal,2,490,25 × 25 × 2
+69,Mesa auxiliar de cocina exterior · modelo 09,A,Pata,4,726,25 × 25 × 2
+69,Mesa auxiliar de cocina exterior · modelo 09,B,Travesaño longitudinal,2,1000,25 × 25 × 2
+69,Mesa auxiliar de cocina exterior · modelo 09,C,Travesaño transversal,2,510,25 × 25 × 2
+70,Mesa auxiliar de cocina exterior · modelo 10,A,Pata,4,726,25 × 25 × 2
+70,Mesa auxiliar de cocina exterior · modelo 10,B,Travesaño longitudinal,2,1050,25 × 25 × 2
+70,Mesa auxiliar de cocina exterior · modelo 10,C,Travesaño transversal,2,530,25 × 25 × 2
+71,Mesa de organización de taller · modelo 01,A,Pata,4,732,25 × 25 × 2
+71,Mesa de organización de taller · modelo 01,B,Travesaño longitudinal,6,550,25 × 25 × 2
+71,Mesa de organización de taller · modelo 01,C,Travesaño transversal,6,350,25 × 25 × 2
+72,Mesa de organización de taller · modelo 02,A,Pata,4,742,25 × 25 × 2
+72,Mesa de organización de taller · modelo 02,B,Travesaño longitudinal,6,600,25 × 25 × 2
+72,Mesa de organización de taller · modelo 02,C,Travesaño transversal,6,370,25 × 25 × 2
+73,Mesa de organización de taller · modelo 03,A,Pata,4,752,25 × 25 × 2
+73,Mesa de organización de taller · modelo 03,B,Travesaño longitudinal,6,650,25 × 25 × 2
+73,Mesa de organización de taller · modelo 03,C,Travesaño transversal,6,390,25 × 25 × 2
+74,Mesa de organización de taller · modelo 04,A,Pata,4,762,25 × 25 × 2
+74,Mesa de organización de taller · modelo 04,B,Travesaño longitudinal,6,700,25 × 25 × 2
+74,Mesa de organización de taller · modelo 04,C,Travesaño transversal,6,410,25 × 25 × 2
+75,Mesa de organización de taller · modelo 05,A,Pata,4,772,25 × 25 × 2
+75,Mesa de organización de taller · modelo 05,B,Travesaño longitudinal,6,750,25 × 25 × 2
+75,Mesa de organización de taller · modelo 05,C,Travesaño transversal,6,430,25 × 25 × 2
+76,Mesa de organización de taller · modelo 06,A,Pata,4,782,25 × 25 × 2
+76,Mesa de organización de taller · modelo 06,B,Travesaño longitudinal,6,800,25 × 25 × 2
+76,Mesa de organización de taller · modelo 06,C,Travesaño transversal,6,450,25 × 25 × 2
+77,Mesa de organización de taller · modelo 07,A,Pata,4,792,25 × 25 × 2
+77,Mesa de organización de taller · modelo 07,B,Travesaño longitudinal,6,850,25 × 25 × 2
+77,Mesa de organización de taller · modelo 07,C,Travesaño transversal,6,470,25 × 25 × 2
+78,Mesa de organización de taller · modelo 08,A,Pata,4,802,25 × 25 × 2
+78,Mesa de organización de taller · modelo 08,B,Travesaño longitudinal,6,900,25 × 25 × 2
+78,Mesa de organización de taller · modelo 08,C,Travesaño transversal,6,490,25 × 25 × 2
+79,Mesa de organización de taller · modelo 09,A,Pata,4,812,25 × 25 × 2
+79,Mesa de organización de taller · modelo 09,B,Travesaño longitudinal,6,950,25 × 25 × 2
+79,Mesa de organización de taller · modelo 09,C,Travesaño transversal,6,510,25 × 25 × 2
+80,Mesa de organización de taller · modelo 10,A,Pata,4,822,25 × 25 × 2
+80,Mesa de organización de taller · modelo 10,B,Travesaño longitudinal,6,1000,25 × 25 × 2
+80,Mesa de organización de taller · modelo 10,C,Travesaño transversal,6,530,25 × 25 × 2
+81,Peana de exposición · modelo 01,A,Pata,4,276,25 × 25 × 2
+81,Peana de exposición · modelo 01,B,Travesaño longitudinal,2,250,25 × 25 × 2
+81,Peana de exposición · modelo 01,C,Travesaño transversal,2,250,25 × 25 × 2
+82,Peana de exposición · modelo 02,A,Pata,4,306,25 × 25 × 2
+82,Peana de exposición · modelo 02,B,Travesaño longitudinal,2,270,25 × 25 × 2
+82,Peana de exposición · modelo 02,C,Travesaño transversal,2,270,25 × 25 × 2
+83,Peana de exposición · modelo 03,A,Pata,4,336,25 × 25 × 2
+83,Peana de exposición · modelo 03,B,Travesaño longitudinal,2,290,25 × 25 × 2
+83,Peana de exposición · modelo 03,C,Travesaño transversal,2,290,25 × 25 × 2
+84,Peana de exposición · modelo 04,A,Pata,4,366,25 × 25 × 2
+84,Peana de exposición · modelo 04,B,Travesaño longitudinal,2,310,25 × 25 × 2
+84,Peana de exposición · modelo 04,C,Travesaño transversal,2,310,25 × 25 × 2
+85,Peana de exposición · modelo 05,A,Pata,4,396,25 × 25 × 2
+85,Peana de exposición · modelo 05,B,Travesaño longitudinal,2,330,25 × 25 × 2
+85,Peana de exposición · modelo 05,C,Travesaño transversal,2,330,25 × 25 × 2
+86,Peana de exposición · modelo 06,A,Pata,4,426,25 × 25 × 2
+86,Peana de exposición · modelo 06,B,Travesaño longitudinal,2,350,25 × 25 × 2
+86,Peana de exposición · modelo 06,C,Travesaño transversal,2,350,25 × 25 × 2
+87,Peana de exposición · modelo 07,A,Pata,4,456,25 × 25 × 2
+87,Peana de exposición · modelo 07,B,Travesaño longitudinal,2,370,25 × 25 × 2
+87,Peana de exposición · modelo 07,C,Travesaño transversal,2,370,25 × 25 × 2
+88,Peana de exposición · modelo 08,A,Pata,4,486,25 × 25 × 2
+88,Peana de exposición · modelo 08,B,Travesaño longitudinal,2,390,25 × 25 × 2
+88,Peana de exposición · modelo 08,C,Travesaño transversal,2,390,25 × 25 × 2
+89,Peana de exposición · modelo 09,A,Pata,4,516,25 × 25 × 2
+89,Peana de exposición · modelo 09,B,Travesaño longitudinal,2,410,25 × 25 × 2
+89,Peana de exposición · modelo 09,C,Travesaño transversal,2,410,25 × 25 × 2
+90,Peana de exposición · modelo 10,A,Pata,4,546,25 × 25 × 2
+90,Peana de exposición · modelo 10,B,Travesaño longitudinal,2,430,25 × 25 × 2
+90,Peana de exposición · modelo 10,C,Travesaño transversal,2,430,25 × 25 × 2
+91,Mesa baja de salón · modelo 01,A,Pata,4,326,25 × 25 × 2
+91,Mesa baja de salón · modelo 01,B,Travesaño longitudinal,2,600,25 × 25 × 2
+91,Mesa baja de salón · modelo 01,C,Travesaño transversal,2,400,25 × 25 × 2
+92,Mesa baja de salón · modelo 02,A,Pata,4,336,25 × 25 × 2
+92,Mesa baja de salón · modelo 02,B,Travesaño longitudinal,2,650,25 × 25 × 2
+92,Mesa baja de salón · modelo 02,C,Travesaño transversal,2,420,25 × 25 × 2
+93,Mesa baja de salón · modelo 03,A,Pata,4,346,25 × 25 × 2
+93,Mesa baja de salón · modelo 03,B,Travesaño longitudinal,2,700,25 × 25 × 2
+93,Mesa baja de salón · modelo 03,C,Travesaño transversal,2,440,25 × 25 × 2
+94,Mesa baja de salón · modelo 04,A,Pata,4,356,25 × 25 × 2
+94,Mesa baja de salón · modelo 04,B,Travesaño longitudinal,2,750,25 × 25 × 2
+94,Mesa baja de salón · modelo 04,C,Travesaño transversal,2,460,25 × 25 × 2
+95,Mesa baja de salón · modelo 05,A,Pata,4,366,25 × 25 × 2
+95,Mesa baja de salón · modelo 05,B,Travesaño longitudinal,2,800,25 × 25 × 2
+95,Mesa baja de salón · modelo 05,C,Travesaño transversal,2,480,25 × 25 × 2
+96,Mesa baja de salón · modelo 06,A,Pata,4,376,25 × 25 × 2
+96,Mesa baja de salón · modelo 06,B,Travesaño longitudinal,2,850,25 × 25 × 2
+96,Mesa baja de salón · modelo 06,C,Travesaño transversal,2,500,25 × 25 × 2
+97,Mesa baja de salón · modelo 07,A,Pata,4,386,25 × 25 × 2
+97,Mesa baja de salón · modelo 07,B,Travesaño longitudinal,2,900,25 × 25 × 2
+97,Mesa baja de salón · modelo 07,C,Travesaño transversal,2,520,25 × 25 × 2
+98,Mesa baja de salón · modelo 08,A,Pata,4,396,25 × 25 × 2
+98,Mesa baja de salón · modelo 08,B,Travesaño longitudinal,2,950,25 × 25 × 2
+98,Mesa baja de salón · modelo 08,C,Travesaño transversal,2,540,25 × 25 × 2
+99,Mesa baja de salón · modelo 09,A,Pata,4,406,25 × 25 × 2
+99,Mesa baja de salón · modelo 09,B,Travesaño longitudinal,2,1000,25 × 25 × 2
+99,Mesa baja de salón · modelo 09,C,Travesaño transversal,2,560,25 × 25 × 2
+100,Mesa baja de salón · modelo 10,A,Pata,4,416,25 × 25 × 2
+100,Mesa baja de salón · modelo 10,B,Travesaño longitudinal,2,1050,25 × 25 × 2
+100,Mesa baja de salón · modelo 10,C,Travesaño transversal,2,580,25 × 25 × 2
